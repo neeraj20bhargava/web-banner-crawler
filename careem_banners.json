@@ -1,0 +1,29 @@
+[
+  {
+    "text": [
+      "Rides"
+    ],
+    "content-desc": "",
+    "resource-id": "",
+    "clickable": "true",
+    "bounds": "[48,294][264,630]"
+  },
+  {
+    "text": [
+      "Send Locally"
+    ],
+    "content-desc": "",
+    "resource-id": "",
+    "clickable": "true",
+    "bounds": "[288,294][504,630]"
+  },
+  {
+    "text": [
+      "Request Money"
+    ],
+    "content-desc": "",
+    "resource-id": "",
+    "clickable": "true",
+    "bounds": "[528,294][744,630]"
+  }
+]
